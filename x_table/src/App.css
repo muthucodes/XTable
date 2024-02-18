@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+button {
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 1.2rem;
+}
+table {
+  width: 50%;
+  margin: 20px auto;
+  font-size: 1.2rem;
+  border: 1px solid lightgray;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid lightgray;
+}
